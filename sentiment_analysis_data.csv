@@ -1,0 +1,16 @@
+text,sentiment
+I love this product!,positive
+This is the worst service ever.,negative
+"It's okay, not great.",neutral
+Absolutely fantastic experience.,positive
+I wouldn't recommend this to anyone.,negative
+"Quite disappointing, honestly.",negative
+I'm very happy with this purchase.,positive
+"Terrible, I want a refund.",negative
+"Decent, but has room for improvement.",neutral
+Exceptional quality!,positive
+Not worth the price.,negative
+Great value for the money.,positive
+"Horrible experience, never coming back.",negative
+Loved it! Will buy again.,positive
+Could be better.,neutral
